@@ -1,6 +1,6 @@
 # HiJet
 
-Start the suitable JetBrains IDE with one command.
+Start a suitable JetBrains IDE with one command.
 
 ## Requirements
 
